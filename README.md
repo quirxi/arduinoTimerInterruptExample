@@ -15,6 +15,6 @@ Two code examples that show how use the arduino Timer1 interrupt - using OCR1A a
 * http://www.gammon.com.au/timers
 * http://www.gammon.com.au/interrupts
 
-## Authors:
+## Author:
 ---
 * quirxi (https://github.com/quirxi)
